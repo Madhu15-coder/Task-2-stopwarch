@@ -1,4 +1,4 @@
-# ⏱ Task-2: Stopwatch
+ ⏱ Task-2: Stopwatch
 
 **Prodigy Infotech Internship - Web Development**
 
